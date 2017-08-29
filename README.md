@@ -1,2 +1,5 @@
-# Devops-Aula03
-balbalba ramo 2
+# Ferramentas de controle de versão:
+* Mercurial
+* Git
+* Subversion
+* CVS
